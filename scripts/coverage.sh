@@ -1,0 +1,1 @@
+go test -coverprofile=../data/cover.out && go tool cover -html=../data/cover.out
